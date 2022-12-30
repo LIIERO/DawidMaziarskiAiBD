@@ -5,7 +5,7 @@ Rezultaty zapytań wykonanych w programie pgAdmin 4
 1. Ile rekordów znajduje się w tabeli nyc_streets?
 SELECT COUNT(*) FROM nyc_streets
 
-wynik -> 19091
+odpowiedź = 19091
 
 
 2. Ile ulic w Nowym Jorku ma nazwy zaczynające się na „B”, „Q” i „M”?
@@ -14,7 +14,7 @@ WHERE name LIKE 'B%'
 OR name LIKE 'Q%'
 OR name LIKE 'M%'
 
-wynik -> 2102
+odpowiedź = 2102
 
 
 3. Jaka jest populacja miasta Nowy Jork?
