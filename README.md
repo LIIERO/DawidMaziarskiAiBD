@@ -47,7 +47,6 @@ SELECT boroname, COUNT(*) FROM nyc_neighborhoods
 GROUP BY boroname
 
 odpowiedź =
-
 "Queens"	30
 "Brooklyn"	23
 "Staten Island"	24
